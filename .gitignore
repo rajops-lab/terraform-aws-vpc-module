@@ -1,0 +1,6 @@
+# add terragrunt cache folder and terraform folder
+.terragrunt-cache
+.terraform*
+
+# add git folders
+.git
